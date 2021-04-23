@@ -18,5 +18,4 @@ if has('nvim')
 endif
 
 runtime ./components/appearance.vim
-
 runtime ./components/keys.vim
