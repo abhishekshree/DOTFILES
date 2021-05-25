@@ -1,5 +1,0 @@
-[user]
-	name = Abhishek Shree
-	email = abhi1234456@gmail.com
-[credential "https://github.com"]
-	helper = !gh auth git-credential
