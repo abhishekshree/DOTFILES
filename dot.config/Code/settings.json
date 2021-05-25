@@ -1,0 +1,53 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 16,
+    "editor.formatOnPaste": true,
+    "explorer.confirmDelete": false,
+    "code-runner.runInTerminal": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.fontSize": 16,
+    "C_Cpp.updateChannel": "Insiders",
+    "python.languageServer": "Pylance",
+    "[javascript]": {
+
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "cmake.configureOnOpen": true,
+    "terminal.integrated.fontFamily": "\"FiraMono Nerd Font\"",
+    "editor.fontFamily": "'Fira Code' ,'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "python.showStartPage": false,
+    "latex-workshop.message.update.show": false,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "git.enableSmartCommit": true,
+    "latex-workshop.latex.clean.subfolder.enabled": true,
+    "eslint.format.enable": true,
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "julia.enableTelemetry": false,
+    "vim.vimrc.enable": true,
+    "vim.neovimPath": "/usr/bin/nvim",
+    "vim.statusBarColors.insert": "green",
+    "vim.useSystemClipboard": true,
+    "workbench.colorTheme": "Monokai",
+    "vim.useCtrlKeys": false,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true
+}

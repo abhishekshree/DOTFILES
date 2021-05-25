@@ -1,0 +1,34 @@
+alias python=python3
+alias d=docker
+alias jn="jupyter notebook"
+
+# Some random bad assignments but ok
+alias q='clear'
+alias ee='exit'
+alias aa='cd ~/Desktop/codeforces/contests/contest'
+alias u='sudo apt-get update && sudo apt-get -y upgrade'
+alias ra='rm -rf'
+
+# Mistakes
+alias sl='ls'
+alias ks='ls'
+
+alias vim='nvim'
+
+# cf aliases
+alias cf='/home/abhishek/cf'
+alias test='cf test'
+alias parse='cf parse '
+alias submit='cf submit'
+
+alias open='xdg-open .'
+alias scroll-lock="xmodmap -e 'add mod3 = Scroll_Lock'"
+alias lights='xset led on'
+alias lights-off='xset led off'
+
+# Python venv
+alias ve='python -m venv ./venv'
+alias va='source ./venv/bin/activate'
+
+#LAN
+alias iitklan='~/Downloads/forticlientsslvpn/64bit/forticlientsslvpn_cli --server gateway.iitk.ac.in:443 --vpnuser shreea20'
