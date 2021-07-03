@@ -8,7 +8,7 @@ Tasks at hand:
 
 ## Some Screenshots :P
 
-![](./assets/first.png)
-![](./assets/second.png)
+![](./assets/first.jpg)
+![](./assets/second.jpg)
 
 
