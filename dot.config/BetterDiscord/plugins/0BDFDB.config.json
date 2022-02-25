@@ -1,0 +1,18 @@
+{
+	"changeLogs": {
+		"SpotifyControls": "1.2.4",
+		"WriteUpperCase": "1.3.4"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	},
+	"hashes": {
+		"0BDFDB.data.json": "1dbe30a940c051ab3957ae8fbf42187ea0330f8f",
+		"0BDFDB.raw.css": "a1036e10077b9457f3903795204f7dbd91d7646d"
+	}
+}
